@@ -1,0 +1,3 @@
+node_modules
+.env
+# 把不想上傳的資料放在這
