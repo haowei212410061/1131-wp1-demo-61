@@ -1,0 +1,6 @@
+export { default as HomePage_xx } from './HomePage_xx'
+export { default as BlogStaticPage_xx } from './BlogStaticPage_xx'
+export { default as BlogNodePage_xx } from './BlogNodePage_xx'
+export { default as BlogSupaPage_xx } from './BlogSupaPage_xx'
+export { default as BlogSupaPage2_xx } from './BlogSupaPage2_xx'
+export { default as HomeLayoutPage_61 } from './HomeLayoutPage_61'
